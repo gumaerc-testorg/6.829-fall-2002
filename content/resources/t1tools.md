@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c27d8b1f-c797-455a-4af5-0ccbb0124cfb
 resourcetype: Document
 title: T1tools.pdf
 uid: 688e3638-3646-b0bf-7bf5-6546733a634c

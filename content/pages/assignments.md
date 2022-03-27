@@ -32,7 +32,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
 20001206.byte.summary.gz ([GZ]({{< baseurl >}}/resources/20001206_byte_summary)) (The GZ file contains: 20001206.byte.summary.gz)  
-[cisco\_dump.010925](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/cisco_dump.010925)  
+[cisco\_dump.010925]({{< baseurl >}}/resources/cisco_dump)  
 mit.bgp.20020909.gz ([GZ]({{< baseurl >}}/resources/mit_bgp_20020909)) (The GZ file contains: mitbgp20020909.gz)  
 route-views.bgp.20020903.gz ([GZ - 7.8 MB]({{< baseurl >}}/resources/route_views_bgp_20020903)) (The GZ file contains: routeviewsbgp20020903.gz)
 {{< tdclose >}}
@@ -49,13 +49,13 @@ route-views.bgp.20020903.gz ([GZ - 7.8 MB]({{< baseurl >}}/resources/route_view
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-AQM.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/AQM.tcl))  
-cwnd1.awk ([AWK](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/cwnd1.awk))  
-dtq.awk ([AWK](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/dtq.awk))  
-LFN.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/LFN.tcl))  
-loss.awk ([AWK](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/loss.awk))  
-redq.awk ([AWK](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/redq.awk))  
-tput.awk ([AWK](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/assignments/tput.awk))
+AQM.tcl ([TCL]({{< baseurl >}}/resources/aqm))  
+cwnd1.awk ([AWK]({{< baseurl >}}/resources/cwnd1))  
+dtq.awk ([AWK]({{< baseurl >}}/resources/dtq))  
+LFN.tcl ([TCL]({{< baseurl >}}/resources/lfn))  
+loss.awk ([AWK]({{< baseurl >}}/resources/loss))  
+redq.awk ([AWK]({{< baseurl >}}/resources/redq))  
+tput.awk ([AWK]({{< baseurl >}}/resources/tput))
 {{< tdclose >}}
 {{< tdopen >}}
  

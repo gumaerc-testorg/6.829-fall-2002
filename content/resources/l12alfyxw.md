@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c27d8b1f-c797-455a-4af5-0ccbb0124cfb
 resourcetype: Document
 title: L12alfyxw.pdf
 uid: 203d1b10-b014-3521-e135-1ace9d0e71be

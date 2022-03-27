@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 33907cee-8e7a-5925-14f9-144ab9914aeb
 resourcetype: Other
 title: route_views_bgp_20020903.gz
 uid: e965df83-a1a3-fdea-a6b0-f2349b866ac2

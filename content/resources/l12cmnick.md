@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c27d8b1f-c797-455a-4af5-0ccbb0124cfb
 resourcetype: Document
 title: L12cmnick.pdf
 uid: bf537ce3-6f98-c6d6-f154-b755a0007c48

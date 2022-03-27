@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c27d8b1f-c797-455a-4af5-0ccbb0124cfb
 resourcetype: Document
 title: L1PacketSwitch.pdf
 uid: 35485a0e-cba2-d903-8ceb-9467c0517054
