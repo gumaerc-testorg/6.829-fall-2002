@@ -1,19 +1,23 @@
 ---
 content_type: page
+description: This section lists useful networking texts and theses, and useful links.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 6f4ed290-8019-9652-bdbc-1d2a640e9ecf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
 This section contains useful references and web sites related to the networking topics discussed in this course.
 
-Useful Networking Texts and Theses
-----------------------------------
+## Useful Networking Texts and Theses
 
 ### General
 
-Kurose, J., and K. Ross. [_Computer Networking: A Top-Down Approach Featuring the Internet_](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf). Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. \[also available for purchase on [Amazon.com](http://www.amazon.com/exec/obidos/ASIN/0201976994#/ref=nosim/mitopencourse-20) \]
+Kurose, J., and K. Ross. [_Computer Networking: A Top-Down Approach Featuring the Internet_](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf). Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. 
 
 Keshav, S. [An Engineering Approach to Computer Networking](http://www.cs.cornell.edu/home/skeshav/book/slides/). 1st ed. Reading, MA: [Addison-Wesley](http://www.cs.cornell.edu/home/skeshav/book/slides/), 1997. ISBN: 0201634422.
 
@@ -45,7 +49,7 @@ Stevens, W. Richards. _TCP/IP Illustrated, Volume 1: The Protocols_. Reading, MA
 
 ———. _TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Datagram Protocols_. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
 
-Comer, Douglas. _Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture__._ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. ([Search](http://vig.prenhall.com/search) for Comer on the Prentice Hall site).
+Comer, Douglas. _Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture\__.\_ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. ([Search](http://vig.prenhall.com/search) for Comer on the Prentice Hall site).
 
 Huitema, Christian. _IPv6: The New Internet Protocol_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138505055. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site).
 
@@ -65,8 +69,7 @@ Perkins, Charlie. _Mobile IP: Design Principles and Practices_. Upper Saddle Riv
 
 Garg, Vijay, and Joseph Wilkes. _Wireless and Personal Communication Systems_. IEEE Press, 2000. ISBN: 0780348184.
 
-Performance, Modeling
----------------------
+## Performance, Modeling
 
 Kleinrock, Len. _Queueing Theory_. New York, NY: Wiley, 1975. ISBN: 0471491101.
 
@@ -80,62 +83,62 @@ Kleinrock, Len. _Queueing Theory_. New York, NY: Wiley, 1975. ISBN: 0471491101.
 
 ### Writing Papers
 
-*   [Collected resources about writing and research](http://www-2.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
+- [Collected resources about writing and research](http://www-2.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
 
 ### Professional Organizations
 
-*   [ACM](http://www.acm.org/)
-    *   [SIGCOMM](http://www.acm.org/sigcomm/) (has links to online versions of some past SIGCOMM proceedings)
-    *   [SIGMOBILE](http://www.acm.org/sigmobile/)
-*   [IEEE](http://www.ieee.org/portal/index.jsp)
-    *   Communication Society
-    *   Computer Society
+- [ACM](http://www.acm.org/)
+    - [SIGCOMM](http://www.acm.org/sigcomm/) (has links to online versions of some past SIGCOMM proceedings)
+    - [SIGMOBILE](http://www.acm.org/sigmobile/)
+- [IEEE](http://www.ieee.org/portal/index.jsp)
+    - Communication Society
+    - Computer Society
 
 ### Internet Organizations
 
-*   [Internet Engineering Task Force (IETF)](http://www.ietf.org/)
-    *   [Internet RFCs](http://www.ietf.org/rfc.html)
-    *   [Internet Drafts](http://www.ietf.org/ID.html)
-*   [Internet Research Task Force (IRTF)](http://www.irtf.org/)
-    *   [Reliable Multicast Research Group](http://irtf.org/concluded/rmrg)
-*   Domain Names
+- [Internet Engineering Task Force (IETF)](http://www.ietf.org/)
+    - [Internet RFCs](http://www.ietf.org/rfc.html)
+    - [Internet Drafts](http://www.ietf.org/ID.html)
+- [Internet Research Task Force (IRTF)](http://www.irtf.org/)
+    - [Reliable Multicast Research Group](http://irtf.org/concluded/rmrg)
+- Domain Names
 
 ### Network Technologies
 
-*   [Bluetooth Device Networking](http://www.bluetooth.com/) (also [here](https://www.bluetooth.org/))
-*   [Cable Modem Information](http://www.cablelabs.com/)
-    *   802.14 (Cable Modem MCNS Standard)
-    *   DOCSIS Specification
-*   802.3
-*   802.11 (Wireless LAN Spec)
-*   DSL
+- [Bluetooth Device Networking](http://www.bluetooth.com/) (also [here](https://www.bluetooth.org/))
+- [Cable Modem Information](http://www.cablelabs.com/)
+    - 802.14 (Cable Modem MCNS Standard)
+    - DOCSIS Specification
+- 802.3
+- 802.11 (Wireless LAN Spec)
+- DSL
 
 ### Traffic and Network Analysis Resources
 
-*   [Internet Traffic Archive](http://ita.ee.lbl.gov/)
+- [Internet Traffic Archive](http://ita.ee.lbl.gov/)
 
 ### Simulation Tools
 
-*   [ns](http://www.isi.edu/nsnam/ns/) (network simulator and nam network animator) and preferred tool of 6.899
-*   [OPNET](http://www.opnet.com/) 
+- [ns](http://www.isi.edu/nsnam/ns/) (network simulator and nam network animator) and preferred tool of 6.899
+- [OPNET](http://www.opnet.com/) 
 
 ### Routing Resources
 
 Graduate networks/Internet courses elsewhere
 
-*   Berkeley
-*   Carnegie Mellon
-*   Columbia
-*   Cornell
-*   Georgia Tech
-*   Illinois
-*   Michigan
-*   MIT 6.263
-*   Princeton
-*   Stanford
-*   UCLA
-*   Univ College London (UCL)
-*   U Mass (Amherst)
-*   USC (Seminar class is different)
-*   Washington (Seattle)
-*   Washington (St. Louis)
+- Berkeley
+- Carnegie Mellon
+- Columbia
+- Cornell
+- Georgia Tech
+- Illinois
+- Michigan
+- MIT 6.263
+- Princeton
+- Stanford
+- UCLA
+- Univ College London (UCL)
+- U Mass (Amherst)
+- USC (Seminar class is different)
+- Washington (Seattle)
+- Washington (St. Louis)
