@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: cisco_dump.010925
-file: /media/courses/6-829-computer-networks-fall-2002/8c199ba937fadf4b35aedf9b9c6f20fc_cisco_dump.010925
+file: /courses/6-829-computer-networks-fall-2002/8c199ba937fadf4b35aedf9b9c6f20fc_cisco_dump.010925
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: cisco_dump.010925
 uid: 8c199ba9-37fa-df4b-35ae-df9b9c6f20fc
 ---
+cisco_dump.010925
+

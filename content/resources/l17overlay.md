@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overlay Routing in the Internet
-file: /media/courses/6-829-computer-networks-fall-2002/e1643f1569e7e26cb5d84b0cac924c35_L17overlay.pdf
+file: /courses/6-829-computer-networks-fall-2002/e1643f1569e7e26cb5d84b0cac924c35_L17overlay.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,10 @@ parent_uid: c27d8b1f-c797-455a-4af5-0ccbb0124cfb
 resourcetype: Document
 title: L17overlay.pdf
 uid: e1643f15-69e7-e26c-b5d8-4b0cac924c35
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Overlay Routing in the Internet
+

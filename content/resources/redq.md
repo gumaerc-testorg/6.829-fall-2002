@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: redq
-file: /media/courses/6-829-computer-networks-fall-2002/48e1cb4235135f5399120e82d8210f0b_redq.awk
+file: /courses/6-829-computer-networks-fall-2002/48e1cb4235135f5399120e82d8210f0b_redq.awk
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: redq.awk
 uid: 48e1cb42-3513-5f53-9912-0e82d8210f0b
 ---
+redq
+

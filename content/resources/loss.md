@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: loss
-file: /media/courses/6-829-computer-networks-fall-2002/5ad95a7cd0543455f0838737522315c5_loss.awk
+file: /courses/6-829-computer-networks-fall-2002/5ad95a7cd0543455f0838737522315c5_loss.awk
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: loss.awk
 uid: 5ad95a7c-d054-3455-f083-8737522315c5
 ---
+loss
+

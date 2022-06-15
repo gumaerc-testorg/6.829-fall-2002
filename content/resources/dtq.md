@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: dtq
-file: /media/courses/6-829-computer-networks-fall-2002/778c3d4aa3393cc042c0208c39f4e1ef_dtq.awk
+file: /courses/6-829-computer-networks-fall-2002/778c3d4aa3393cc042c0208c39f4e1ef_dtq.awk
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: dtq.awk
 uid: 778c3d4a-a339-3cc0-42c0-208c39f4e1ef
 ---
+dtq
+

@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section contains the background readings, the assigned readings,
+  and the optional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 065ed03c-b61c-e97b-68cc-671caa24bb9a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The readings listed on this page are in three parts. First come the background readings. You will find them useful to get up to speed. Then come the assigned readings. Finally, we list several papers as optional readings, for you to learn more about specific topics. The schedule provides hints on when any given optional reading might be useful. All papers are named by shorthand names such as CK74.
@@ -16,7 +22,7 @@ Background (will not be explicitly discussed in class)
 
 Ethernet paper.
 
-**\[L0\]** Balakrishnan, H. "Single-link Communication." 6.829 Computer Networks Lecture Notes, Fall 2002. (Read this before or soon after first lecture.) ([PDF]({{< baseurl >}}/resources/l0singlelink))
+**\[L0\]** Balakrishnan, H. "Single-link Communication." 6.829 Computer Networks Lecture Notes, Fall 2002. (Read this before or soon after first lecture.) ({{% resource_link f3e7d4d9-bee7-f8d9-9ad0-d4b3cbae3e55 "PDF" %}})
 
 Assigned Readings (by Topic Area)
 ---------------------------------
@@ -35,7 +41,7 @@ Assigned Readings (by Topic Area)
 
 **\[BCDP97\]** Brodnik, A., S. Carlsson, M. Degermark, and S. Pink. "[Small Forwarding Tables for Fast Routing Lookups](http://www.acm.org/sigcomm/sigcomm97/papers/p192.html)." _Proc [ACM SIGCOMM](http://www.acm.org/sigcomm/)_ (September [1997](http://www.acm.org/sigcomm/sigcomm97/)). Cannes, France.
 
-**\[L4\]** Balakrishnan, H. "Wide-area Unicast Routing." 6.829 Computer Networks Lecture Notes, Fall 2002. ([PDF]({{< baseurl >}}/resources/l4unicastrtg))
+**\[L4\]** Balakrishnan, H. "Wide-area Unicast Routing." 6.829 Computer Networks Lecture Notes, Fall 2002. ({{% resource_link 479e67f0-3ae6-82ec-5886-7664687a926e "PDF" %}})
 
 **Internet Routing in-the-Wild (Measurement)**
 
@@ -220,7 +226,7 @@ Web Caching
 Introducing New Services: Overlays v. Active Networks
 -----------------------------------------------------
 
-**\[W99\]** [Wetherall, D.](https://www.coursera.org/instructor/~517478) "Active network vision and reality: Lessons from a capsule-based system." _Proc_ [_17th SOSP_](http://www.acm.org/sigs/sigops/sosp99/) December 1999. Kiawah Island, SC. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://research.microsoft.com/en-us/um/people/padmanab/cse561/papers/wet99.pdf))
+**\[W99\]** [Wetherall, D.](https://www.coursera.org/instructor/~517478) "Active network vision and reality: Lessons from a capsule-based system." _Proc_ [_17th SOSP_](http://www.acm.org/sigs/sigops/sosp99/) December 1999. Kiawah Island, SC. ([PDF](http://research.microsoft.com/en-us/um/people/padmanab/cse561/papers/wet99.pdf))
 
 **Modeling and Measurement**
 
