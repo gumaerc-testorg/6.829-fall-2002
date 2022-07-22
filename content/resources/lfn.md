@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/98660b0cbe1c0e1d8ce82b428a83fcb
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: LFN.tcl
 uid: 98660b0c-be1c-0e1d-8ce8-2b428a83fcb7
 ---
 LFN
-

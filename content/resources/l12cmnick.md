@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/bf537ce36f98c6d6f154b755a0007c4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Congestion Manager
-

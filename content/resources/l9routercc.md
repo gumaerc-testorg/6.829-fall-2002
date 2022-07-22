@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/75f8388241d7920f744f27f28230f01
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture 9: Router-Assisted Congestion Control
-

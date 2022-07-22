@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/c9d3d586895cdb2c7a6ae4cb6de615a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem Set 1
-

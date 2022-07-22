@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/d81a62b0dc0edaeded4c1529e596d7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture 2: The Internetworking Problem
-

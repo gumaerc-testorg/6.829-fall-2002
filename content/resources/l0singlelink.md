@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/f3e7d4d9bee7f8d99ad0d4b3cbae3e5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Background: Single-Link Communication
-
