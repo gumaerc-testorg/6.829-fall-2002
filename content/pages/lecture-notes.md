@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains a list of lecture and tutorial topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c27d8b1f-c797-455a-4af5-0ccbb0124cfb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -22,9 +30,9 @@ TOPICS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-L0 for background ([PDF]({{< baseurl >}}/resources/l0singlelink))  
+L0 for background ({{% resource_link f3e7d4d9-bee7-f8d9-9ad0-d4b3cbae3e55 "PDF" %}})  
 **Part I: Internetworking and Routing**  
-Packet Switching ([PDF]({{< baseurl >}}/resources/l1packetswitch))  
+Packet Switching ({{% resource_link 35485a0e-cba2-d903-8ceb-9467c0517054 "PDF" %}})  
 A Simple Network
 {{< tdclose >}}
 
@@ -34,7 +42,7 @@ A Simple Network
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-The Internetworking Problem ([PDF]({{< baseurl >}}/resources/l2internetworking))  
+The Internetworking Problem ({{% resource_link d81a62b0-dc0e-daed-ed4c-1529e596d7f7 "PDF" %}})  
 The IP/TCP Split  
 Connections  
 Scaling IP
@@ -46,7 +54,7 @@ Scaling IP
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Scaling IP (cont.) ([PDF]({{< baseurl >}}/resources/l3scalingip))  
+Scaling IP (cont.) ({{% resource_link c6d11b48-6a59-0e06-7ee6-7fb3b284fc0f "PDF" %}})  
 Routers: Forwarding and Routing  
 The IP Forwarding Path
 {{< tdclose >}}
@@ -57,7 +65,7 @@ The IP Forwarding Path
 T1
 {{< tdclose >}}
 {{< tdopen >}}
-**Tutorial on useful tools** ([PDF]({{< baseurl >}}/resources/t1tools))
+**Tutorial on useful tools** ({{% resource_link 688e3638-3646-b0bf-7bf5-6546733a634c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +74,7 @@ T1
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Unicast Internet Routing: Intra- and Inter-Domain Routing ([PDF]({{< baseurl >}}/resources/l4unicastrtg))  
+Unicast Internet Routing: Intra- and Inter-Domain Routing ({{% resource_link 479e67f0-3ae6-82ec-5886-7664687a926e "PDF" %}})  
 **Project suggestions handed out; proposals due 1 day after T3**
 {{< tdclose >}}
 
@@ -85,7 +93,7 @@ Internet Routing-in-the-Wild
 T2
 {{< tdclose >}}
 {{< tdopen >}}
-**Intro to the ns2 Network Simulator** ([PDF]({{< baseurl >}}/resources/t2ns))
+**Intro to the ns2 Network Simulator** ({{% resource_link 44b429c8-e147-7cb2-f322-dc156b5a0f41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +112,7 @@ L7
 \[Lecturer: Nick Feamster\]
 {{< tdclose >}}
 {{< tdopen >}}
-Security Problems with the Internet Architecture ([PDF]({{< baseurl >}}/resources/l7security))
+Security Problems with the Internet Architecture ({{% resource_link b6082aa6-d5f2-d006-5220-67a4be4d36d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +121,7 @@ Security Problems with the Internet Architecture ([PDF]({{< baseurl >}}/resource
 T3
 {{< tdclose >}}
 {{< tdopen >}}
-**Tutorial on IPv6** ([PDF]({{< baseurl >}}/resources/t3ipv6))
+**Tutorial on IPv6** ({{% resource_link b86103fb-045f-7199-f9ec-3a73fe01fa93 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +140,7 @@ L8
 {{< tdclose >}}
 {{< tdopen >}}
 **Part II: Resource Management  
-**End-to-End Congestion Control ([PDF]({{< baseurl >}}/resources/l8e2ecc))
+**End-to-End Congestion Control ({{% resource_link 65235419-4b22-31bc-0448-8232729760cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +149,7 @@ L8
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Router-Assisted Congestion Control: Active Queue Management ([PDF]({{< baseurl >}}/resources/l9routercc))
+Router-Assisted Congestion Control: Active Queue Management ({{% resource_link 75f83882-41d7-920f-744f-27f28230f014 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +158,7 @@ Router-Assisted Congestion Control: Active Queue Management ([PDF]({{< baseurl >
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Fair Queuing and Variants ([PDF]({{< baseurl >}}/resources/l10fq))
+Fair Queuing and Variants ({{% resource_link f0edd242-8668-4dd4-ab55-caed1e1eab17 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +169,7 @@ L11
 {{< tdclose >}}
 {{< tdopen >}}
 Modeling and Measurement-I: Packet Trains  
-Slides ([PDF]({{< baseurl >}}/resources/l11slides))
+Slides ({{% resource_link b3e86d40-a6b7-e54a-5d89-d213b98008bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,8 +188,8 @@ L12
 {{< tdclose >}}
 {{< tdopen >}}
 Adaptive Network Applications  
-Nick's CM slides ([PDF]({{< baseurl >}}/resources/l12cmnick))  
-Xiaowei's ALF slides ([PDF]({{< baseurl >}}/resources/l12alfyxw))
+Nick's CM slides ({{% resource_link bf537ce3-6f98-c6d6-f154-b755a0007c48 "PDF" %}})  
+Xiaowei's ALF slides ({{% resource_link 203d1b10-b014-3521-e135-1ace9d0e71be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +234,7 @@ T7
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-QoS-I: Why QoS; Basic Models and Architecture ([PDF]({{< baseurl >}}/resources/l13servicemodel))
+QoS-I: Why QoS; Basic Models and Architecture ({{% resource_link b46c7ba0-a30e-3691-6847-592096bb4107 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +261,7 @@ T8
 L15 (Notes from Fall 01)
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling and Measurement-II: Traffic Self-Similarity; Virus Propagation ([PDF]({{< baseurl >}}/resources/l15selfsim))
+Modeling and Measurement-II: Traffic Self-Similarity; Virus Propagation ({{% resource_link 058eeb27-4053-0b55-d78a-f170e624e8b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +290,7 @@ T9
 L17 \[Lecturer: Nick Feamster\]
 {{< tdclose >}}
 {{< tdopen >}}
-Routing in Overlay Networks ([PDF]({{< baseurl >}}/resources/l17overlay))
+Routing in Overlay Networks ({{% resource_link e1643f15-69e7-e26c-b5d8-4b0cac924c35 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +299,7 @@ Routing in Overlay Networks ([PDF]({{< baseurl >}}/resources/l17overlay))
 L18
 {{< tdclose >}}
 {{< tdopen >}}
-DNS ([PDF]({{< baseurl >}}/resources/l18dns))  
+DNS ({{% resource_link 6821932d-61b7-e835-e3f2-aa38fc7f957f "PDF" %}})  
 Resource Discovery  
 Other Examples of Lookups  
 **Project write-up (checkpoint) due in class**
@@ -330,7 +338,7 @@ Wireless Protocols: Data Transport and Sensor Data Dissemination (Cross-Layer Pr
 T11
 {{< tdclose >}}
 {{< tdopen >}}
-**Anonymity** ([PDF]({{< baseurl >}}/resources/t11anonymity))
+**Anonymity** ({{% resource_link 95a06953-55db-afca-7f01-4e364866af12 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -348,7 +356,7 @@ Group Communication: Multicast Routing and Transport
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-Multicast (cont.); Scalability and Robustness in Networks ([PDF]({{< baseurl >}}/resources/l22srm))
+Multicast (cont.); Scalability and Robustness in Networks ({{% resource_link 8ad6d372-7269-f49f-9f67-8fd823c8957c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

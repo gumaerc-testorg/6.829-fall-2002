@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8b1798a9-fb3f-ff2e-8c39-90bb0fb1bfe1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -22,7 +29,7 @@ The past few years have seen a remarkable growth in the global network infrastru
 
 How does this global network infrastructure work and what are the design principles on which it is based? In what ways are these design principles compromised in practice? How do we make it work better in today's world? How do we ensure that it will work well in the future in the face of rapidly growing scale and heterogeneity? And how should Internet applications be written, so they can obtain the best possible performance both for themselves and for others using the infrastructure? These are some issues that we will grapple with in this course. The course will focus on the design, implementation, analysis, and evaluation of large-scale networked systems.
 
-[Topics]({{< baseurl >}}/pages/calendar) include internetworking philosophies, unicast and multicast routing, congestion control, network quality of service, mobile networking, router architectures, network-aware applications, content dissemination systems, network security, and performance issues. [Material]({{< baseurl >}}/pages/readings) for the course will be drawn from research papers, industry white papers, and [Internet RFCs](http://www.ietf.org/rfc.html).
+{{% resource_link 75315fd5-1f0f-93d2-b026-f4068f7f35bf "Topics" %}} include internetworking philosophies, unicast and multicast routing, congestion control, network quality of service, mobile networking, router architectures, network-aware applications, content dissemination systems, network security, and performance issues. {{% resource_link 065ed03c-b61c-e97b-68cc-671caa24bb9a "Material" %}} for the course will be drawn from research papers, industry white papers, and [Internet RFCs](http://www.ietf.org/rfc.html).
 
 Prerequisites
 -------------

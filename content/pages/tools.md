@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains information on the ns Simulator.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 5ab800bf-4356-dada-eed2-1cdaf5f84996
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ns Simulator Information
@@ -23,11 +31,11 @@ Useful ns Links
     (Almost everything you need to know about ns can be accessed from this site.)
 *   [On-line Tcl man pages](http://elf.org/etc/tcltk-man-html.html)
 *   [Athena on-line help](http://ist.mit.edu/software/athena/helpinfo)
-*   6.829 ns tutorial slides ([PDF]({{< baseurl >}}/resources/t2ns))
-    *   1 minute TCL tutorial — 1.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/1.tcl))
-    *   1 minute oTCL tutorial — 2.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/2.tcl))
-    *   ns 1: Creating Topology — 3.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/3.tcl))
-    *   ns 2: Attaching Agents — 4.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/4.tcl))
-    *   ns 2: TCP Agents — 5.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/5.tcl))
-    *   ns 3: Attaching Sources — 6.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/6.tcl))
-    *   ns 4: Tracing — 7.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/7.tcl))
+*   6.829 ns tutorial slides ({{% resource_link 44b429c8-e147-7cb2-f322-dc156b5a0f41 "PDF" %}})
+    *   1 minute TCL tutorial — 1.tcl ({{% resource_link e3c74554-44ab-0cff-5323-ef32c2920525 "TCL" %}})
+    *   1 minute oTCL tutorial — 2.tcl ({{% resource_link 59974070-6152-a81a-3502-062a0387f517 "TCL" %}})
+    *   ns 1: Creating Topology — 3.tcl ({{% resource_link 42629a83-3b7c-6755-f191-ebf25a6bc3e7 "TCL" %}})
+    *   ns 2: Attaching Agents — 4.tcl ({{% resource_link bdded0b1-00ed-20c0-037a-d9d9b3a53982 "TCL" %}})
+    *   ns 2: TCP Agents — 5.tcl ({{% resource_link 8717a3f2-78d0-a55f-2b00-8d356ef17d6b "TCL" %}})
+    *   ns 3: Attaching Sources — 6.tcl ({{% resource_link 30f6840e-1f83-1f57-6b4b-ca27278935fe "TCL" %}})
+    *   ns 4: Tracing — 7.tcl ({{% resource_link 0d73d3c6-83c7-27a3-c4fb-348f5c7edb85 "TCL" %}})
