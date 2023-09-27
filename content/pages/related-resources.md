@@ -17,65 +17,65 @@ This section contains useful references and web sites related to the networking 
 
 ### General
 
-Kurose, J., and K. Ross. [_Computer Networking: A Top-Down Approach Featuring the Internet_](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf). Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. 
+Kurose, J., and K. Ross. [*Computer Networking: A Top-Down Approach Featuring the Internet*](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf). Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. 
 
 Keshav, S. [An Engineering Approach to Computer Networking](http://www.cs.cornell.edu/home/skeshav/book/slides/). 1st ed. Reading, MA: [Addison-Wesley](http://www.cs.cornell.edu/home/skeshav/book/slides/), 1997. ISBN: 0201634422.
 
-Walrand, Jean. _Communication Networks: A First Course_. Mc Graw Hill, 1998. ISBN: 0256174040.
+Walrand, Jean. *Communication Networks: A First Course*. Mc Graw Hill, 1998. ISBN: 0256174040.
 
-Tanenbaum, Andrew. _Computer Networks_. 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0133499456. ([Search](http://vig.prenhall.com/search) for Tanenbaum on the Prentice Hall site).
+Tanenbaum, Andrew. *Computer Networks*. 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0133499456. ([Search](http://vig.prenhall.com/search) for Tanenbaum on the Prentice Hall site).
 
-Bertsekas, Dmitri, and Robert Gallager. _Data Networks_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. ([Search](http://vig.prenhall.com/search) for Bertsekas on the Prentice Hall site).
+Bertsekas, Dmitri, and Robert Gallager. *Data Networks*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. ([Search](http://vig.prenhall.com/search) for Bertsekas on the Prentice Hall site).
 
-Partridge, Craig. _Gigabit Networking_. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={9D5D6C5C-8469-431C-BFBA-09B716BBC870}), 1993. ISBN: 0201563339.
+Partridge, Craig. *Gigabit Networking*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={9D5D6C5C-8469-431C-BFBA-09B716BBC870}), 1993. ISBN: 0201563339.
 
 Stallings.
 
 ### Routing, High-Speed Networks
 
-Huitema, Christian. _Routing in the Internet_. Upper Saddle River, NJ: Prentice Hall, 2000. ISBN: 0130226475. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site.)
+Huitema, Christian. *Routing in the Internet*. Upper Saddle River, NJ: Prentice Hall, 2000. ISBN: 0130226475. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site.)
 
-Perlman, Radia. _Interconnections: Bridges and Routers_. Reading, MA: Addison Wesley, 1992. ISBN: 0201563320.
+Perlman, Radia. *Interconnections: Bridges and Routers*. Reading, MA: Addison Wesley, 1992. ISBN: 0201563320.
 
-Steenstrup, Martha. _Routing in Communication Networks_. 1st ed. Upper Saddle River, NJ: Prentice Hall, 1995. ISBN: 0130107522. ([Search](http://vig.prenhall.com/search) for Steenstrup on the Prentice Hall site.)
+Steenstrup, Martha. *Routing in Communication Networks*. 1st ed. Upper Saddle River, NJ: Prentice Hall, 1995. ISBN: 0130107522. ([Search](http://vig.prenhall.com/search) for Steenstrup on the Prentice Hall site.)
 
 BGP4.
 
 ### The TCP/IP Protocol Suite
 
-Stevens, W. Richards. _TCP/IP Illustrated, Volume 1: The Protocols_. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
+Stevens, W. Richards. *TCP/IP Illustrated, Volume 1: The Protocols*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
 
-———. _TCP/IP Illustrated, Volume 2: The Implementation_. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
+———. *TCP/IP Illustrated, Volume 2: The Implementation*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
 
-———. _TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Datagram Protocols_. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
+———. *TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Datagram Protocols*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
 
-Comer, Douglas. _Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture\__.\_ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. ([Search](http://vig.prenhall.com/search) for Comer on the Prentice Hall site).
+Comer, Douglas. *Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture\_*.\_ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. ([Search](http://vig.prenhall.com/search) for Comer on the Prentice Hall site).
 
-Huitema, Christian. _IPv6: The New Internet Protocol_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138505055. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site).
+Huitema, Christian. *IPv6: The New Internet Protocol*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138505055. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site).
 
 ### Multicast
 
 Deering, Stephen. "Multicast Routing in a Datagram Internetwork, Part 1, Part 2, Part 3." Ph.D. Thesis, Stanford University, 1991.
 
-Paul, Sanjoy. _Multicasting on the Internet and its Applications_. Kluwer Academic Publishers, 1998. ISBN: 0792382005. (Search for it on Amazon using the keyword "Sanjoy Paul".)
+Paul, Sanjoy. *Multicasting on the Internet and its Applications*. Kluwer Academic Publishers, 1998. ISBN: 0792382005. (Search for it on Amazon using the keyword "Sanjoy Paul".)
 
 Ken Miller.
 
 ### Wireless and Mobility
 
-Solomon, J. _Mobile IP: The Internet Unplugged_. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138562466.
+Solomon, J. *Mobile IP: The Internet Unplugged*. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138562466.
 
-Perkins, Charlie. _Mobile IP: Design Principles and Practices_. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0201634694.
+Perkins, Charlie. *Mobile IP: Design Principles and Practices*. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0201634694.
 
-Garg, Vijay, and Joseph Wilkes. _Wireless and Personal Communication Systems_. IEEE Press, 2000. ISBN: 0780348184.
+Garg, Vijay, and Joseph Wilkes. *Wireless and Personal Communication Systems*. IEEE Press, 2000. ISBN: 0780348184.
 
 ## Performance, Modeling
 
-Kleinrock, Len. _Queueing Theory_. New York, NY: Wiley, 1975. ISBN: 0471491101.
+Kleinrock, Len. *Queueing Theory*. New York, NY: Wiley, 1975. ISBN: 0471491101.
 
 ### Programmable Networks
 
-[Wetherall, David](http://djw.cs.washington.edu//). "Service Introduction in an Active Network." Ph. D Thesis, M.I.T., 1999.
+[Wetherall, David](https://research.com/u/david-wetherall). "Service Introduction in an Active Network." Ph. D Thesis, M.I.T., 1999.
 
 ### Useful Links
 
