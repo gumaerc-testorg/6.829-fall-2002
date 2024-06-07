@@ -2,6 +2,7 @@
 content_type: resource
 description: cisco_dump.010925
 file: /courses/6-829-computer-networks-fall-2002/8c199ba937fadf4b35aedf9b9c6f20fc_cisco_dump.010925
+file_size: 33860
 file_type: text/plain
 learning_resource_types:
 - Assignments

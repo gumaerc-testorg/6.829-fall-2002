@@ -2,6 +2,7 @@
 content_type: resource
 description: AQM
 file: /courses/6-829-computer-networks-fall-2002/1f08641da51c92921da7dd76a14bc230_AQM.tcl
+file_size: 14897
 file_type: text/plain
 learning_resource_types:
 - Assignments

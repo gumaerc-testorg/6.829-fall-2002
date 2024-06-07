@@ -2,6 +2,7 @@
 content_type: resource
 description: The Internet Domain Name System
 file: /courses/6-829-computer-networks-fall-2002/6821932d61b7e835e3f2aa38fc7f957f_L18dns.pdf
+file_size: 320212
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
