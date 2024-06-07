@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 3: Scaling IP for Size and Speed'
 file: /courses/6-829-computer-networks-fall-2002/c6d11b486a590e067ee67fb3b284fc0f_L3ScalingIP.pdf
+file_size: 127547
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
