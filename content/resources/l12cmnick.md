@@ -2,6 +2,7 @@
 content_type: resource
 description: Congestion Manager
 file: /courses/6-829-computer-networks-fall-2002/bf537ce36f98c6d6f154b755a0007c48_L12cmnick.pdf
+file_size: 74732
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

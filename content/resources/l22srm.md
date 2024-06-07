@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 22: Scalable Reliable Multicast'
 file: /courses/6-829-computer-networks-fall-2002/8ad6d3727269f49f9f678fd823c8957c_L22srm.pdf
+file_size: 63806
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

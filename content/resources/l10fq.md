@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 10: Scheduling for Fairness'
 file: /courses/6-829-computer-networks-fall-2002/f0edd24286684dd4ab55caed1e1eab17_L10fq.pdf
+file_size: 179745
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

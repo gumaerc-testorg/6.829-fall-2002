@@ -17,7 +17,7 @@ This section contains useful references and web sites related to the networking 
 
 ### General
 
-Kurose, J., and K. Ross. [*Computer Networking: A Top-Down Approach Featuring the Internet*](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf). Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. 
+Kurose, J., and K. Ross. *Computer Networking: A Top-Down Approach Featuring the Internet*. Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. 
 
 Keshav, S. [An Engineering Approach to Computer Networking](http://www.cs.cornell.edu/home/skeshav/book/slides/). 1st ed. Reading, MA: [Addison-Wesley](http://www.cs.cornell.edu/home/skeshav/book/slides/), 1997. ISBN: 0201634422.
 

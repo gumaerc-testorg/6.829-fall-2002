@@ -2,6 +2,7 @@
 content_type: resource
 description: loss
 file: /courses/6-829-computer-networks-fall-2002/5ad95a7cd0543455f0838737522315c5_loss.awk
+file_size: 348
 file_type: text/plain
 learning_resource_types:
 - Assignments

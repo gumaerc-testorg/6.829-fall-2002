@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 1
 file: /courses/6-829-computer-networks-fall-2002/c9d3d586895cdb2c7a6ae4cb6de615a5_ps1sols.pdf
+file_size: 775637
 file_type: application/pdf
 learning_resource_types:
 - Assignments
