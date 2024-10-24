@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: dtq
-file: /courses/6-829-computer-networks-fall-2002/778c3d4aa3393cc042c0208c39f4e1ef_dtq.awk
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/778c3d4aa3393cc042c0208c39f4e1ef_dtq.awk
 file_size: 30
 file_type: text/plain
 learning_resource_types:
