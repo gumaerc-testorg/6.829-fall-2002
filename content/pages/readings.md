@@ -43,11 +43,11 @@ Ethernet paper.
 
 **Internet Routing in-the-Wild (Measurement)**
 
-**\[Pax97\]** Paxson, V. "End-to-End Routing Behavior in the Internet." [*IEEE/ACM Transactions on Networking*](https://newslab.ece.ohio-state.edu/ton/) 5, no. 5 (October 1997): 601-615.
+**\[Pax97\]** Paxson, V. "End-to-End Routing Behavior in the Internet." *IEEE/ACM Transactions on Networking* 5, no. 5 (October 1997): 601-615.
 
 **Big Fast Routers**
 
-**\[P+98\]** Partridge, C., et al. "A 50 Gb/s IP Router." [*IEEE/ACM Transactions on Networking*](https://newslab.ece.ohio-state.edu/ton/) 6, no. 3 (June 1998): 237-248.
+**\[P+98\]** Partridge, C., et al. "A 50 Gb/s IP Router." *IEEE/ACM Transactions on Networking* 6, no. 3 (June 1998): 237-248.
 
 **\[McK96\]** McKeown, N., M. Izzard, A. Mekkittikul, W. Ellersick, and M. Horowitz. "The Tiny Tera: A Packet Switch Core." *Proc Hot Interconnects* V (August 1996). Stanford University.
 
@@ -71,7 +71,7 @@ Ethernet paper.
 
 **Router-Assisted Congestion Control, Active Queue Management, and Scheduling**
 
-**\[FJ93\]** [Floyd, S.](http://www.aciri.org/floyd/), and V. Jacobson. "Random Early Detection Gateways for Congestion Avoidance." [*IEEE/ACM Transactions on Networking*](https://ton.lids.mit.edu/) 1, no. 4 (August 1993): 397-413.
+**\[FJ93\]** [Floyd, S.](http://www.aciri.org/floyd/), and V. Jacobson. "Random Early Detection Gateways for Congestion Avoidance." *IEEE/ACM Transactions on Networking* 1, no. 4 (August 1993): 397-413.
 
 **\[KHR02\]** Katabi, D., M. Handley, and C. Rohrs. "[Congestion control for high bandwidth-delay product networks](http://www.acm.org/sigcomm/sigcomm2002/papers/xcp.html)." *Proc* [*ACM SIGCOMM*](http://www.acm.org/sigcomm/) (August 2002). Pittsburgh, PA.
 
@@ -91,13 +91,13 @@ Ethernet paper.
 
 **\[CT90\]** Clark, D., and D. Tennenhouse. "Architectural Consideration for a New Generation of Protocols." *Proc* [*ACM SIGCOMM*](http://www.acm.org/sigcomm) (September 1990). Philadelphia, PA.
 
-**\[BSR99\]** Balakrishnan, H., [S. Seshan](http://www.seshan.org/), and H. Rahul. "An Integrated Congestion Management Architecture for Internet Hosts." *Proc ACM SIGCOMM* (September [1999](http://www.acm.org/sigcomm/sigcomm99/)). Cambridge, MA.
+**\[BSR99\]** Balakrishnan, H., S. Seshan, and H. Rahul. "An Integrated Congestion Management Architecture for Internet Hosts." *Proc ACM SIGCOMM* (September [1999](http://www.acm.org/sigcomm/sigcomm99/)). Cambridge, MA.
 
 **\[She95\]** Shenker, S. "Fundamental Design Issues for the Future Internet." *IEEE Journal on Selected Areas in Communications* 13, no. 7 (September 1995): 1176-1188.
 
 **\[CSZ92\]** Clark, D., [S. Shenker](http://www.aciri.org/shenker), and L. Zhang. "Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanisms." *Proc* [*SIGCOMM*](http://www.acm.org/sigcomm) *'92 (* August 1992). Baltimore, MD.
 
-**\[CF98\]** Clark, D., and W. Feng. "Explicit Allocation of Best-Effort Packet Delivery Service." [*IEEE/ACM Transactions on Networking*](https://ton.lids.mit.edu/) 6, no.4 (August 1998): 362-373.
+**\[CF98\]** Clark, D., and W. Feng. "Explicit Allocation of Best-Effort Packet Delivery Service." *IEEE/ACM Transactions on Networking* 6, no.4 (August 1998): 362-373.
 
 ## Part III. Network Services
 
@@ -133,7 +133,7 @@ Ethernet paper.
 
 **\[MS97\]** Maufer, T., and C. Semeria. "Introduction to IP Multicast Routing." Internet-Draft, July 1997.
 
-**\[F+97\]** [Floyd, S.](http://www.icir.org/floyd/), V. Jacobson, C. Liu, S. McCanne, and L. Zhang. "A Reliable Multicast Framework for Light-Weight Sessions and Application Level Framing." [*IEEE/ACM Transactions on Networking*](http://www.ton.cc.gatech.edu/) (1997).
+**\[F+97\]** [Floyd, S.](http://www.icir.org/floyd/), V. Jacobson, C. Liu, S. McCanne, and L. Zhang. "A Reliable Multicast Framework for Light-Weight Sessions and Application Level Framing." *IEEE/ACM Transactions on Networking* (1997).
 
 **Optional Additional Readings and References**
 
@@ -151,7 +151,7 @@ Ethernet paper.
 
 **\[FF96\]** Floyd, S., and K. Fall. "A Simulation Comparison of Tahoe, Reno, and SACK TCP." *ACM SIGCOMM CCR* (1996).
 
-**\[FF99\]** [Floyd, S.](http://www.aciri.org/floyd), and K. Fall. "[Promoting the Use of End-to-End Congestion Control in the Internet](http://www.aciri.org/floyd/end2end-paper.html)." [*IEEE/ACM Transactions on Networking*](http://www.ton.cc.gatech.edu/) 7, no. 4 (August 1999): 458-472.
+**\[FF99\]** [Floyd, S.](http://www.aciri.org/floyd), and K. Fall. "[Promoting the Use of End-to-End Congestion Control in the Internet](http://www.aciri.org/floyd/end2end-paper.html)." *IEEE/ACM Transactions on Networking* 7, no. 4 (August 1999): 458-472.
 
 **\[RJ90\]** Ramakrishnan, K. K., and R. Jain. "A Binary Feedback Scheme for Congestion Avoidance in Computer Networks." [*ACM Transactions on Computer Systems (TOCS)*](http://www.acm.org/tocs/) 8, no. 2 (May 1990): 158-181.
 
@@ -163,7 +163,7 @@ Ethernet paper.
 
 **Unicast Routing**
 
-**\[Huitema96\]** Huitema, C. *Routing in the Internet*. Upper Saddle River, NJ: Prentice Hall, January 15, 2000. ISBN: 0130226475. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site.)
+**\[Huitema96\]** Huitema, C. *Routing in the Internet*. Upper Saddle River, NJ: Prentice Hall, January 15, 2000. ISBN: 0130226475. (Search for Huitema on the Prentice Hall site.)
 
 **\[LMJ97\]** Labovitz, C., R. Malan, and F. Jahanian. "[Internet Routing Instability](http://www.acm.org/sigcomm/sigcomm97/papers/p109.html)." *Proc* [*ACM SIGCOMM*](http://www.acm.org/sigcomm/) (September [1997](http://www.acm.org/sigcomm/sigcomm97/)). Cannes, France.
 
@@ -227,6 +227,6 @@ Ethernet paper.
 
 **\[Bol93\]** Bolot, J. C. "End-to-End Packet Delay and Loss Behavior in the Internet." *Proc* [*ACM SIGCOMM*](http://www.acm.org/sigcomm) (August 1993). San Francisco, CA.
 
-**\[LTWW94\]** Leland, W. E., M. S. Taqqu, W. Willinger, and D. V. Wilson. "On the Self-Similar Nature of Ethernet Traffic." [*IEEE/ACM Transactions on Networking*](http://www.ton.cc.gatech.edu/) 2, no. 1 (February 1994): 1-15.
+**\[LTWW94\]** Leland, W. E., M. S. Taqqu, W. Willinger, and D. V. Wilson. "On the Self-Similar Nature of Ethernet Traffic." *IEEE/ACM Transactions on Networking* 2, no. 1 (February 1994): 1-15.
 
 Paper on Topology Modeling.

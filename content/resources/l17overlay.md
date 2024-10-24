@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overlay Routing in the Internet
-file: /courses/6-829-computer-networks-fall-2002/e1643f1569e7e26cb5d84b0cac924c35_L17overlay.pdf
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/e1643f1569e7e26cb5d84b0cac924c35_L17overlay.pdf
 file_size: 209046
 file_type: application/pdf
 learning_resource_types:

@@ -19,7 +19,7 @@ This section contains useful references and web sites related to the networking 
 
 Kurose, J., and K. Ross. *Computer Networking: A Top-Down Approach Featuring the Internet*. Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. 
 
-Keshav, S. [An Engineering Approach to Computer Networking](http://www.cs.cornell.edu/home/skeshav/book/slides/). 1st ed. Reading, MA: [Addison-Wesley](http://www.cs.cornell.edu/home/skeshav/book/slides/), 1997. ISBN: 0201634422.
+Keshav, S. [An Engineering Approach to Computer Networking](http://www.cs.cornell.edu/home/skeshav/book/slides/). 1st ed. Reading, MA: Addison-Wesley, 1997. ISBN: 0201634422.
 
 Walrand, Jean. *Communication Networks: A First Course*. Mc Graw Hill, 1998. ISBN: 0256174040.
 
@@ -27,7 +27,7 @@ Tanenbaum, Andrew. *Computer Networks*. 3rd ed. Upper Saddle River, NJ: Prentice
 
 Bertsekas, Dmitri, and Robert Gallager. *Data Networks*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. ([Search](http://vig.prenhall.com/search) for Bertsekas on the Prentice Hall site).
 
-Partridge, Craig. *Gigabit Networking*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={9D5D6C5C-8469-431C-BFBA-09B716BBC870}), 1993. ISBN: 0201563339.
+Partridge, Craig. *Gigabit Networking*. Reading, MA: Addison Wesley, 1993. ISBN: 0201563339.
 
 Stallings.
 
@@ -43,15 +43,15 @@ BGP4.
 
 ### The TCP/IP Protocol Suite
 
-Stevens, W. Richards. *TCP/IP Illustrated, Volume 1: The Protocols*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
+Stevens, W. Richards. *TCP/IP Illustrated, Volume 1: The Protocols*. Reading, MA: Addison Wesley. ISBN: 0201776316.
 
-———. *TCP/IP Illustrated, Volume 2: The Implementation*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
+———. *TCP/IP Illustrated, Volume 2: The Implementation*. Reading, MA: Addison Wesley. ISBN: 0201776316.
 
-———. *TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Datagram Protocols*. Reading, MA: [Addison Wesley](http://www.awprofessional.com/catalog/product.asp?product_id={77AE61E3-FBC0-4EB3-ACEE-C3AD04B3A0D6}). ISBN: 0201776316.
+———. *TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Datagram Protocols*. Reading, MA: Addison Wesley. ISBN: 0201776316.
 
-Comer, Douglas. *Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture\_*.\_ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. ([Search](http://vig.prenhall.com/search) for Comer on the Prentice Hall site).
+Comer, Douglas. *Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture\_*.\_ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. (Search for Comer on the Prentice Hall site).
 
-Huitema, Christian. *IPv6: The New Internet Protocol*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138505055. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site).
+Huitema, Christian. *IPv6: The New Internet Protocol*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138505055. (Search for Huitema on the Prentice Hall site).
 
 ### Multicast
 
