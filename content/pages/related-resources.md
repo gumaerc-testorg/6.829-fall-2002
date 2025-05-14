@@ -23,7 +23,7 @@ Keshav, S. [An Engineering Approach to Computer Networking](http://www.cs.cornel
 
 Walrand, Jean. *Communication Networks: A First Course*. Mc Graw Hill, 1998. ISBN: 0256174040.
 
-Tanenbaum, Andrew. *Computer Networks*. 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0133499456. ([Search](http://vig.prenhall.com/search) for Tanenbaum on the Prentice Hall site).
+Tanenbaum, Andrew. *Computer Networks*. 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0133499456. ([Search](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf) for Tanenbaum on the Prentice Hall site).
 
 Bertsekas, Dmitri, and Robert Gallager. *Data Networks*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. ([Search](http://vig.prenhall.com/search) for Bertsekas on the Prentice Hall site).
 
