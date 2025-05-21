@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Anonymity in the Internet
-file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/95a0695355dbafca7f014e364866af12_T11anonymity.pdf
+file: /courses/6-829-computer-networks-fall-2002/95a0695355dbafca7f014e364866af12_T11anonymity.pdf
 file_size: 100730
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: cwnd1
-file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/e6645d9009e5c83facd2eb7a0d24de50_cwnd1.awk
+file: /courses/6-829-computer-networks-fall-2002/e6645d9009e5c83facd2eb7a0d24de50_cwnd1.awk
 file_size: 32
 file_type: text/plain
 learning_resource_types:
