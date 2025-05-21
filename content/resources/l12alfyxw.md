@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Architectural Considerations for a New Generation of Protocols
-file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/203d1b10b0143521e1351ace9d0e71be_L12alfyxw.pdf
+file: /courses/6-829-computer-networks-fall-2002/203d1b10b0143521e1351ace9d0e71be_L12alfyxw.pdf
 file_size: 604492
 file_type: application/pdf
 learning_resource_types:

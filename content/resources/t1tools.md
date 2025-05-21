@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Networking Tools
-file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/688e36383646b0bf7bf56546733a634c_T1tools.pdf
+file: /courses/6-829-computer-networks-fall-2002/688e36383646b0bf7bf56546733a634c_T1tools.pdf
 file_size: 136417
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: tput
-file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/5101ee96d8c26f40ef6c4874e6f46f29_tput.awk
+file: /courses/6-829-computer-networks-fall-2002/5101ee96d8c26f40ef6c4874e6f46f29_tput.awk
 file_size: 2472
 file_type: text/plain
 learning_resource_types:
