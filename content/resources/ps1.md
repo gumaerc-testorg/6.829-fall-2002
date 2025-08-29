@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 1
-file: /courses/6-829-computer-networks-fall-2002/b135037a10dda856fcbe4ee7bd12946d_ps1.pdf
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/b135037a10dda856fcbe4ee7bd12946d_ps1.pdf
 file_size: 487220
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 9: Router-Assisted Congestion Control'
-file: /courses/6-829-computer-networks-fall-2002/75f8388241d7920f744f27f28230f014_L9routercc.pdf
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/75f8388241d7920f744f27f28230f014_L9routercc.pdf
 file_size: 675045
 file_type: application/pdf
 learning_resource_types:

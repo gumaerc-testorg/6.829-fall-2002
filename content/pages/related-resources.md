@@ -25,7 +25,7 @@ Walrand, Jean. *Communication Networks: A First Course*. Mc Graw Hill, 1998. ISB
 
 Tanenbaum, Andrew. *Computer Networks*. 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0133499456. ([Search](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf) for Tanenbaum on the Prentice Hall site).
 
-Bertsekas, Dmitri, and Robert Gallager. *Data Networks*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. ([Search](http://vig.prenhall.com/search) for Bertsekas on the Prentice Hall site).
+Bertsekas, Dmitri, and Robert Gallager. [*Data Networks*](https://web.mit.edu/dimitrib/www/datanets.html). 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. 
 
 Partridge, Craig. *Gigabit Networking*. Reading, MA: Addison Wesley, 1993. ISBN: 0201563339.
 
@@ -33,11 +33,11 @@ Stallings.
 
 ### Routing, High-Speed Networks
 
-Huitema, Christian. *Routing in the Internet*. Upper Saddle River, NJ: Prentice Hall, 2000. ISBN: 0130226475. ([Search](http://vig.prenhall.com/search) for Huitema on the Prentice Hall site.)
+Huitema, Christian. *Routing in the Internet*. Upper Saddle River, NJ: Prentice Hall, 2000. ISBN: 0130226475.
 
 Perlman, Radia. *Interconnections: Bridges and Routers*. Reading, MA: Addison Wesley, 1992. ISBN: 0201563320.
 
-Steenstrup, Martha. *Routing in Communication Networks*. 1st ed. Upper Saddle River, NJ: Prentice Hall, 1995. ISBN: 0130107522. ([Search](http://vig.prenhall.com/search) for Steenstrup on the Prentice Hall site.)
+Steenstrup, Martha. *Routing in Communication Networks*. 1st ed. Upper Saddle River, NJ: Prentice Hall, 1995. ISBN: 0130107522. 
 
 BGP4.
 
@@ -49,15 +49,15 @@ Stevens, W. Richards. *TCP/IP Illustrated, Volume 1: The Protocols*. Reading, MA
 
 ———. *TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Datagram Protocols*. Reading, MA: Addison Wesley. ISBN: 0201776316.
 
-Comer, Douglas. *Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture\_*.\_ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. (Search for Comer on the Prentice Hall site).
+Comer, Douglas. *Internetworking with TCP/IP, Volume 1: Principles, Protocols and Architecture\_*.\_ 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0130183806. 
 
-Huitema, Christian. *IPv6: The New Internet Protocol*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138505055. (Search for Huitema on the Prentice Hall site).
+Huitema, Christian. *IPv6: The New Internet Protocol*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0138505055. 
 
 ### Multicast
 
 Deering, Stephen. "Multicast Routing in a Datagram Internetwork, Part 1, Part 2, Part 3." Ph.D. Thesis, Stanford University, 1991.
 
-Paul, Sanjoy. *Multicasting on the Internet and its Applications*. Kluwer Academic Publishers, 1998. ISBN: 0792382005. (Search for it on Amazon using the keyword "Sanjoy Paul".)
+Paul, Sanjoy. *Multicasting on the Internet and its Applications*. Kluwer Academic Publishers, 1998. ISBN: 0792382005. 
 
 Ken Miller.
 
