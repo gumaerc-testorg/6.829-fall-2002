@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for problem set 1.
-file: /courses/6-829-computer-networks-fall-2002/e965df83a1a3fdeaa6b0f2349b866ac2_route_views_bgp_20020903.gz
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/e965df83a1a3fdeaa6b0f2349b866ac2_route_views_bgp_20020903.gz
 file_size: 8175783
 file_type: application/x-gzip
 learning_resource_types:

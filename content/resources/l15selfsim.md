@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Traffic Self-Similarity
-file: /courses/6-829-computer-networks-fall-2002/058eeb2740530b55d78af170e624e8b7_L15selfsim.pdf
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/058eeb2740530b55d78af170e624e8b7_L15selfsim.pdf
 file_size: 104675
 file_type: application/pdf
 learning_resource_types:
