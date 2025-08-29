@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Security Problems with the Internet Architecture
-file: /courses/6-829-computer-networks-fall-2002/b6082aa6d5f2d006522067a4be4d36d8_L7Security.pdf
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/b6082aa6d5f2d006522067a4be4d36d8_L7Security.pdf
 file_size: 261310
 file_type: application/pdf
 learning_resource_types:

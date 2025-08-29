@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Measurement and Modelling I: End-to-End Bandwidth Measurements'
-file: /courses/6-829-computer-networks-fall-2002/b3e86d40a6b7e54a5d89d213b98008bd_L11slides.pdf
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/b3e86d40a6b7e54a5d89d213b98008bd_L11slides.pdf
 file_size: 141455
 file_type: application/pdf
 learning_resource_types:

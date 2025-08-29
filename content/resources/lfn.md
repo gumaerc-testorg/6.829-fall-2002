@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: LFN
-file: /courses/6-829-computer-networks-fall-2002/98660b0cbe1c0e1d8ce82b428a83fcb7_LFN.tcl
+file: /ol-ocw-studio-app/courses/6-829-computer-networks-fall-2002/98660b0cbe1c0e1d8ce82b428a83fcb7_LFN.tcl
 file_size: 6111
 file_type: text/plain
 learning_resource_types:
