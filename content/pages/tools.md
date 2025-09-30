@@ -17,20 +17,20 @@ ns Simulator Information
 
 **Running ns**
 
-You can build your own copy of the ns simulator from source by downloading it from the [official ns web site](http://www.isi.edu/nsnam/ns/).
+You can build your own copy of the ns simulator from source by downloading it from the {{% resource_link "09a21e9f-629a-4f07-a6cf-43588f786359" "official ns web site" %}}.
 
 Accessing the Source Code
 -------------------------
 
-You can find all of the source code for ns, as well as other useful materials, at the [web site](http://www.isi.edu/nsnam/ns/ns-build.html).
+You can find all of the source code for ns, as well as other useful materials, at the {{% resource_link "81a46b20-12cd-4b5f-8194-aa90dfe015cf" "web site" %}}.
 
 Useful ns Links
 ---------------
 
-*   [The official ns web site](http://www.isi.edu/nsnam/ns/)   
+*   {{% resource_link "09a21e9f-629a-4f07-a6cf-43588f786359" "The official ns web site" %}}   
     (Almost everything you need to know about ns can be accessed from this site.)
-*   [On-line Tcl man pages](http://elf.org/etc/tcltk-man-html.html)
-*   [Athena on-line help](http://ist.mit.edu/software/athena/helpinfo)
+*   {{% resource_link "0e6b5180-698e-4fa8-84bc-4cbb2522dcd0" "On-line Tcl man pages" %}}
+*   {{% resource_link "93583c8f-7efe-48fe-b398-f5151394f315" "Athena on-line help" %}}
 *   6.829 ns tutorial slides ({{% resource_link 44b429c8-e147-7cb2-f322-dc156b5a0f41 "PDF" %}})
     *   1 minute TCL tutorial — 1.tcl ({{% resource_link e3c74554-44ab-0cff-5323-ef32c2920525 "TCL" %}})
     *   1 minute oTCL tutorial — 2.tcl ({{% resource_link 59974070-6152-a81a-3502-062a0387f517 "TCL" %}})
